@@ -12,4 +12,4 @@ This repository contains links for my projects based on "UI/UX Designing".
 1) Hotel Website
 This is my UI/UX project of a "Hotel Website" built using "Canva".
 
-Project Link: Hotel Vista Views
+Project Link: https://hotel-vista-views.my.canva.site/
