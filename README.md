@@ -168,6 +168,6 @@ ________________________________________
 17. Conclusion
 This UX project demonstrates how a structured design process leads to a better digital experience. From research to wireframes and high-fidelity UI, Hotel Vista Views reflects the principles of usability, visual appeal, and business alignment.
 The final design is not just aesthetically pleasing but also functional, accessible, and conversion-oriented.
-Link for html document of ux case study- file:///C:/Users/yanmo/OneDrive/Desktop/Html%20doc/a.html
+<img width="1892" height="877" alt="Homepage" src="https://github.com/user-attachments/assets/fda0e9bb-7844-4ac8-9f9e-e8a64b13300b" />
 
 
