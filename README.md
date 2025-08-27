@@ -169,5 +169,12 @@ ________________________________________
 This UX project demonstrates how a structured design process leads to a better digital experience. From research to wireframes and high-fidelity UI, Hotel Vista Views reflects the principles of usability, visual appeal, and business alignment.
 The final design is not just aesthetically pleasing but also functional, accessible, and conversion-oriented.
 <img width="1892" height="877" alt="Homepage" src="https://github.com/user-attachments/assets/fda0e9bb-7844-4ac8-9f9e-e8a64b13300b" />
+<img width="1900" height="866" alt="Services" src="https://github.com/user-attachments/assets/f3c226e3-6a49-4f58-a1ee-74848fb47646" />
+<img width="1903" height="862" alt="Contact Us" src="https://github.com/user-attachments/assets/817ef492-0519-49f9-8a26-e8bf3c290f37" />
+
+
+
+
+
 
 
